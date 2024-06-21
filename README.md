@@ -82,19 +82,28 @@
 
 ![](ScreenCaptures/26.png)
 ![](ScreenCaptures/31.png)
-Impossible d'aller plus loin car il à un problème de corruption alors que j'ai tout bien suivi, j'ai réinstaller eclipse ainsi que tomcat 3 fois mais pas de solution
+
+## Démarrage du serveur d'application Tomcat (30 points)
+
+![](ScreenCaptures/30.png)
 
 ## Démarrage du Client REST (30 points)
 
+![](ScreenCaptures/34.png)
 
 ## Démarrage du Serveur SOAP (30 points)
 
+![](ScreenCaptures/33.png)
 
 ## Démarrage du Client SOAP (30 points)
 
+![](ScreenCaptures/35.png)
 
 ## Tester le webservice avec SOAP UI (75 points)
 
+![](ScreenCaptures/36.png)
+![](ScreenCaptures/37.png)
+![](ScreenCaptures/38.png)
 
 ## Tester le webservice avec Advanced Rest Client (75 points)
 
